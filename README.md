@@ -13,3 +13,4 @@ Using Manage Rainmeter utility, unload the default skins, and add your newly add
 
 # Screenshot
 
+![Configuration is on the right side. The Boxes across the top are from Stardock Fences](https://github.com/davidtessier/rainmeter/blob/master/2019-07-26%2013_46_22-Greenshot.png)
