@@ -4,7 +4,7 @@ On Windows, download and install rainmeter from the ![Rainmeter website](https:/
 
 Then, create a new configuration file in this path *(change the username section)*.
 ```
-C:\Users\YOURUSER\Documents\Rainmeter\Skins\MySkins\DJTConfig.ini
+C:\Users\YOURUSER\Documents\Rainmeter\Skins\MySkins\DJT.ini
 ```
 
 In the new configuration file, copy in the contents from ![the configuration in this repository](https://github.com/davidtessier/rainmeter/blob/master/DJT.ini)
