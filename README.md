@@ -9,6 +9,12 @@ C:\Users\YOURUSER\Documents\Rainmeter\Skins\MySkins\DJT.ini
 
 In the new configuration file, copy in the contents from ![the configuration in this repository](https://github.com/davidtessier/rainmeter/blob/master/DJT.ini)
 
+Copy the NomFerp.dll from this repo and put it in the plugins folder. This DLL is required for the Top Process list to work. 
+
+```
+C:\Users\YOURUSER\AppData\Roaming\Rainmeter\Plugins\NomFerp.dll
+```
+
 Using Manage Rainmeter utility, unload the default skins, and add your newly added skin
 
 # Screenshot
